@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dainik10&show_icons=true&locale=en&layout=compact" alt="dainik10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dainik10&show_icons=true&locale=en" alt="dainik10" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dainik10&" alt="dainik10" /></p>
