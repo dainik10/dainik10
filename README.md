@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **dainikbheda@gmail.com**
 
-- 📄 Know about my experiences [https://blush-zoe-41.tiiny.site/](https://blush-zoe-41.tiiny.site/)
-
-- ⚡ Fun fact **I am funny🤣**
+- ⚡ Fun fact **I am doing engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
