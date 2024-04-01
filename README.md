@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Django, Dart, Flutter.**
+- 🌱 I’m currently learning **Django, Dart, Flutter, TypeScript.**
 
-- 💬 Ask me about **React.js, Next.js, Node.js, MySQL, Express.js, React-Native.**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, React-Native.**
 
 - 📫 How to reach me **dainikbheda@gmail.com**
 
